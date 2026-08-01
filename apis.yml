@@ -1,9 +1,29 @@
 aid: plenful
 name: Plenful
-description: 'Plenful is a company surfaced as a portfolio company of bessemer-venture-partners, ggv-capital
-  and added to the API Evangelist network as a stub for enrichment. Sector: ai-ml. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Plenful is an AI-powered workflow automation platform for pharmacy and healthcare
+  operations, founded in 2021 and headquartered in San Francisco with an office in New York City.
+  The platform automates complex, high-ROI administrative pharmacy workflows — 340B audit and
+  optimization, 340B referral capture, rebate and Maximum Fair Price (MFP) reconciliation, benefits
+  verification and prior authorization, and infusion order intake — using large language models and
+  machine learning tuned to each organization''s data. It ingests PDFs, flat files, APIs, HL7 feeds,
+  and databases, supports unlimited organizational logic rules, and serves 100+ healthcare
+  organizations including Prisma Health, Renown Health, Temple Health, Cencora, and Samaritan Health
+  Services. Plenful is backed by Bessemer Venture Partners, Notable Capital (formerly GGV Capital),
+  SUSA Ventures, TQ Ventures, and Waterline Ventures. Plenful ships an enterprise SaaS product and does
+  not currently publish a public developer API, SDK, or documentation surface.'
 url: https://raw.githubusercontent.com/api-evangelist/plenful/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/660fbd6612719d1bb9190fb2/68e92e05332be8f6ac9ad2d0_Group%20155.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -13,10 +33,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
-- Ai Ml
+- Healthcare
+- Pharmacy
+- Artificial Intelligence
+- Workflow Automation
+- Machine Learning
+- 340B
+- Prior Authorization
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +52,18 @@ maintainers:
 common:
 - type: Website
   url: https://www.plenful.com/
+- type: Blog
+  url: https://www.plenful.com/blog
+- type: PrivacyPolicy
+  url: https://www.plenful.com/privacy-policy
+- type: TermsOfService
+  url: https://www.plenful.com/terms
+- type: SignUp
+  url: https://www.plenful.com/demo
+- type: DomainSecurity
+  url: security/plenful-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
