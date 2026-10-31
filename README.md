@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Plenful is a company surfaced as a portfolio company of bessemer-venture-partners, ggv-capital and added to the API Evangelist network as a stub for enrichment. Sector: ai-ml. This profile is a lead awaiting the enrichment pipeline.
+Plenful is an AI-powered workflow automation platform for pharmacy and healthcare operations, founded in 2021 and headquartered in San Francisco with an office in New York City. The platform automates complex, high-ROI administrative pharmacy workflows — 340B audit and optimization, 340B referral capture, rebate and Maximum Fair Price (MFP) reconciliation, benefits verification and prior authorization, and infusion order intake — using large language models and machine learning tuned to each organization's data. It ingests PDFs, flat files, APIs, HL7 feeds, and databases, supports unlimited organizational logic rules, and serves 100+ healthcare organizations including Prisma Health, Renown Health, Temple Health, Cencora, and Samaritan Health Services. Plenful is backed by Bessemer Venture Partners, Notable Capital (formerly GGV Capital), SUSA Ventures, TQ Ventures, and Waterline Ventures. Plenful ships an enterprise SaaS product and does not currently publish a public developer API, SDK, or documentation surface.
 
-Backed by: bessemer-venture-partners, ggv-capital — https://www.plenful.com/
+**Areas:** Company · Healthcare · Pharmacy · Artificial Intelligence · Workflow Automation · Machine Learning · 340B · Prior Authorization
+
+## Plenful on APIs.io
+
+Everything profiled for Plenful is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/plenful/](https://apis.io/providers/plenful/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Plenful Domain Security](https://apis.io/security/plenful/plenful-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.plenful.com/)
+- [Sign up](https://www.plenful.com/demo)
+- [Blog](https://www.plenful.com/blog)
+- [Terms of service](https://www.plenful.com/terms)
+- [Privacy policy](https://www.plenful.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 11.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.3** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/plenful/](https://apis.io/providers/plenful/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Plenful: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/plenful/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
